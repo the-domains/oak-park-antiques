@@ -1,6 +1,6 @@
 name: Oak Park Antiques
 favicon: null
-layout_spectrum: 0.5686504121404141
+layout_spectrum: 0.40037
 typography_spectrum: 0.9363251782488078
 title: Bricks purchased from the Frank Lloyd Wright Preservation Trust
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.6266090620774776
-  lightness: 0.16257054242305458
-  saturation: 0.7640512748621404
-  rhythmicContrast: 0.3132668687030673
+    - '#fcfcfc'
+    - '#000110'
+    - '#8c8b79'
+    - '#615a3e'
+    - '#b2b19f'
+  brandStrength: 0.5
+  lightness: 0.8125
+  saturation: 0.375
+  rhythmicContrast: 0.25
 purpose: []
