@@ -1,0 +1,28 @@
+name: Oak Park Antiques
+favicon: null
+layout_spectrum: 0.5686504121404141
+typography_spectrum: 0.9363251782488078
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6266090620774776
+  lightness: 0.16257054242305458
+  saturation: 0.7640512748621404
+  rhythmicContrast: 0.3132668687030673
+purpose: []
